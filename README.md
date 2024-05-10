@@ -1,6 +1,6 @@
 ## Simple NodeJs Server
 
-This is an assignment from Zuri Training Community on Backend Development. This repository provides a simple Node.js server that can handle multiple concurrent requests and returns information about the user's CPU and OS.
+This is an assignment (Setting up a simple NodeJS Server) from Zuri Training Community on Backend Development. This repository provides a simple Node.js server that can handle multiple concurrent requests and returns information about the user's CPU and OS.
 
 ### Features:
 
